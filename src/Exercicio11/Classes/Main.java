@@ -1,6 +1,4 @@
-import Classes.Banco;
-import Classes.Conta;
-import Classes.Transação;
+package Exercicio11.Classes;
 
 //TIP To <b>Run</b> code, press <shortcut actionId="Run"/> or
 // click the <icon src="AllIcons.Actions.Execute"/> icon in the gutter.

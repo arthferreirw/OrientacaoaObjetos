@@ -1,7 +1,4 @@
-package Classes;
-
-import java.util.ArrayList;
-import java.util.List;
+package Exercicio11.Classes;
 
 public class Transação {
     private String identicador_transacao;
